@@ -26,6 +26,14 @@ Make sure you have Go installed.
 
 [Download Go](https://go.dev/dl/)
 
+## Learning Goals
+
+- Understand Go syntax and structure
+- Learn how to work with Go modules
+- Write clean and readable code
+- Explore the Go ecosystem
+
+
 ### Installation
 
 Clone the repository:
@@ -45,20 +53,6 @@ Run the project:
 ```bash
 go run .
 ```
-
-## Thanks ❤️
-
-<p align="center">
-  <img src="https://gifdb.com/images/high/animated-dancing-gopher-aqp5ux4vjzym7gsl.gif" width="300" alt="Dancing Go Gopher">
-</p>
-
-## Learning Goals
-
-- Understand Go syntax and structure
-- Learn how to work with Go modules
-- Write clean and readable code
-- Explore the Go ecosystem
-
 ---
 
 <p align="center">
